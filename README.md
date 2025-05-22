@@ -1,5 +1,5 @@
 # pinepack .scm
-Pine3D compact model format
+Pine3D compact model format. Uses a different model format and lualzw for compression.
 
 ## Use
 ```lua
