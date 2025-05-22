@@ -22,6 +22,18 @@ pinepack.unpack_model(model)
 ```
 Unpacks `scm` model data into standard Pine3D model data.
 
+## pinepack-cmd Use
+
+```
+pinepack-cmd models/pineapple pack
+```
+Packs the pineapple model into a `.scm` file
+
+```
+pinepack-cmd modes/pineapple.scm unpack
+```
+Unpacks the compressed pineapple model into the standard Pine3D format
+
 ## Example
 
 ```lua
